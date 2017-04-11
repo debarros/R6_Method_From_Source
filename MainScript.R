@@ -23,4 +23,6 @@ current$setFrame(data1)
 current$getFrame()
 current$getFrame2()
 
+a = current$getFrame2()
 
+str(a)
